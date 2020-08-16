@@ -1,3 +1,5 @@
+# Machine learning model using python to predict crypto currency prices and based on the model built trading strategy to maximize trading gains.
+
 # Melbourne_Datathon
 My submission in Melbourne Datathon
 # Scenario
